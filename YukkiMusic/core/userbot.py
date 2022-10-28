@@ -57,9 +57,9 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TeamYM")
-                await self.one.join_chat("TheYukki")
-                await self.one.join_chat("YukkiSupport")
+                await self.one.join_chat("Aliza_update")
+                await self.one.join_chat("AlizaGbanLogs")
+                await self.one.join_chat("Aliza_support")
             except:
                 pass
             assistants.append(1)
@@ -88,9 +88,9 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TeamYM")
-                await self.two.join_chat("TheYukki")
-                await self.two.join_chat("YukkiSupport")
+                await self.two.join_chat("Aliza_update")
+                await self.two.join_chat("AlizaGbanLogs")
+                await self.two.join_chat("Aliza_support")
             except:
                 pass
             assistants.append(2)
