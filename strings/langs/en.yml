@@ -254,7 +254,7 @@ S_B_4 : "📨 Channel"
 S_B_5 : "✚ Add me to your Group"
 S_B_6 : "💡 Git Repo"
 S_B_7 : "👩🏻 Bot Owner"
-S_B_8 : "🔎 Helps and Commands 🔎 ."
+S_B_8 : "🔎 Helps and Commands 🔎"
 
 #Help 
 H_B_1 : "Admin Commands"
@@ -278,7 +278,7 @@ P_B_4 : "🎵 Play Playlist"
 #Playlist
 PL_B_1 : "🚀 Play Playlist"
 PL_B_2 : "✚ Playlists"
-PL_B_3 : "✚ CPanel"
+PL_B_3 : "🕹 Controls"
 PL_B_4 : "📡 Play Mode"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
